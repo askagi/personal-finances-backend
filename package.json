@@ -1,0 +1,17 @@
+{
+  "name": "personal-finances-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:askagi/personal-finances-backend.git",
+  "author": "José Costa <josecostasantos.jr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
